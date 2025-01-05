@@ -1,0 +1,1 @@
+This project is based on a Research article which aims at creating an Information retrieval system integrating evolutionary algorithms like The Modified Genetic Algorithm(MGA) and the The Culture Algorithm(CA) which helps in ranking the most relevant documents to the user's query.
